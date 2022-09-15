@@ -18,7 +18,7 @@
 
 `git clone https://github.com/RINKU-CYBER-404/Rnm`
 
-`cd Rnm
+`cd Rnm`
 
 `python FB-KING.py`
 
