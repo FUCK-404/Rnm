@@ -20,7 +20,7 @@
 
 `cd Rnm`
 
-`python FB-KING.py`
+`python FUCK-FB-KING.py`
 
 `Niki Random Cloning`
 
