@@ -22,6 +22,10 @@
 
 `python FB-KING.py`
 
+'Niki Random Cloning'
+
+'python Crack.py'
+
 
 
 
